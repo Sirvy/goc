@@ -1,2 +1,5 @@
 # goc
-gcc/g++ shortcut
+gcc/g++ short compiling.
+
+Usage:
+$./goc main.c
